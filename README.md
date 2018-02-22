@@ -1,7 +1,8 @@
 # Unsupervised-learning-of-condition-invariant-images
 #My work is inspired by the paper: "Unsupervised Online Learning of Condition-Invariant Images for Place Recognition" 
 
-# In this task, initially Alderley day/night dataset is used
+# In this task, initially Alderley day/night dataset is used 
+[https://wiki.qut.edu.au/pages/viewpage.action?pageId=181178395]
 #Training data: 2500 images are used; 1250 images are taken from 'Day' folder, rest 1250 images are from 'Night' folder.
 #GrayScale images are subsampled to 26*64 pixels
 #Size of traing dataset 2500*1664
