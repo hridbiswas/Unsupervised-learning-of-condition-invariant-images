@@ -12,4 +12,12 @@
 #After getting scores are eigenvectors, those are used to transform our test images
 #To make our transformation Invariant, first 100 principle components are discarded and laters (e.g. 101:200) principle components are taken
 
+# for test, one one pair of images are shown here (which can be applied to the whole test folder).
+Test images:
+Day_12180.jpg
+Night_14366.jpg
+
+
+## Independent Component Analysis method also applied on this dataset. But it doesn't perform well here.
+
 
