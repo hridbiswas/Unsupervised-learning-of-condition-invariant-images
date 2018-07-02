@@ -10,4 +10,6 @@ Identifying the place in different seasons is a challenging task for a machine.
 Since the top principal components will cotain the most information of the image, we discarded top Principal components and took less important principal components. Details are described in this paper named "Unsupervised Online Learning of Condition-Invariant Images for Place
 Recognition"
 
+# Number of principal Components;
+![](images/pov.png)
 ![](images/variant_invariant.png)
