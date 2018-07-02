@@ -13,4 +13,8 @@ Recognition"
 # Number of principal Components;
 are chosen by looking at the percentage of variance is explained by the PC's
 ![](images/pov.png)
+
+This figure (below) shows that it is possible to make condition invariant features after projecting on PC's.
 ![](images/variant_invariant.png)
+
+
