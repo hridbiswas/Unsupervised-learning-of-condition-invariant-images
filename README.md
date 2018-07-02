@@ -11,5 +11,6 @@ Since the top principal components will cotain the most information of the image
 Recognition"
 
 # Number of principal Components;
+are chosen by looking at the percentage of variance is explained by the PC's
 ![](images/pov.png)
 ![](images/variant_invariant.png)
