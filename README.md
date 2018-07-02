@@ -18,6 +18,8 @@ This figure (below) shows that it is possible to make condition invariant featur
 ![](images/variant_invariant.png)
 
 
-##Distance matrix::
-
+#Distance matrix::
+  To check the performance we took 500 imager from spring and 500 image from winter from same locations.
+  ![](images/dm_20_140.png)
+  
 
